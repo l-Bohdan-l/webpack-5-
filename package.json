@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CST-education/webpack-5.git"
+    "url": "git+https://github.com/l-Bohdan-l/webpack-5-"
   },
   "keywords": [],
-  "author": "Sandra Hrevtsova",
+  "author": "Bohdan Papushoy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CST-education/webpack-5/issues"
+    "url": "https://github.com/l-Bohdan-l/webpack-5-/issues"
   },
-  "homepage": "https://CST-education.github.io/webpack",
+  "homepage": "https://github.com/l-Bohdan-l/webpack-5-",
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@babel/preset-env": "^7.15.0",
